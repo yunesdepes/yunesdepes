@@ -2,7 +2,6 @@
 
 - 📖 Estou estudando JavaScript
 - 👨‍💻 Desenvolvo HTML e CSS
-- 😄 Pronomes : Ele/Dele
 - ⚡ Hobby: Programação/Leitura
 
 <div>
