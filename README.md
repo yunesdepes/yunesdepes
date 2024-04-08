@@ -1,4 +1,4 @@
-### Olá, eu sou Yunes Depes 👋
+ ### Hello, I'm Yunes Depes 👋
 
 - 📖 I'm studying Python
 - 👨‍💻 I develop HTML, CSS and PYTHON
