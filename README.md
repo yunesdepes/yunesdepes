@@ -1,9 +1,8 @@
 ### Olá, eu sou Yunes Depes 👋
 
-- 📖 Estou estudando JavaScript
-- 👨‍💻 Desenvolvo HTML e CSS
-- ⚡ Hobby: Programação/Leitura
-
+- 📖 I'm studying Python
+- 👨‍💻 I develop HTML, CSS and PYTHON
+- ⚡ Hobby: Coding/Learning new things
 <div>
   <a href="https://github.com/yunesdepes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yunesdepes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
